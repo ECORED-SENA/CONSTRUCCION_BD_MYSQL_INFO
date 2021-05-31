@@ -1,12 +1,12 @@
 export const global = {
-  nombrePrograma: 'Construcción de bases de datos con MYSQL',
+  nombrePrograma: 'construcción de bases de datos con MYSQL',
   codigo: '22810010',
-  horas: 48,
-  semanas: 4,
+  horas: '48',
+  semanas: '4',
   modalidad: 'virtual',
   requisitosIngrso: [
-    'Solicitud del interesado.',
-    'Cumplir los requisitos exigidos por el centro de formación.',
+    'solicitud del interesado.',
+    'cumplir los requisitos exigidos por el centro de formación.',
   ],
   // imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
   videoBannerPrincipal:
@@ -255,7 +255,7 @@ export const menuPrincipal = {
 
 export const creditos = {
   liderEquipo: {
-    nombre: 'Maria Camila Garcia Santamaria',
+    nombre: 'María Camila García Santamaría',
     cargo: 'Líder del equipo',
   },
   contenidoInstruccional: [
@@ -284,13 +284,25 @@ export const creditos = {
       regional: 'Distrito Capital',
     },
     {
+      nombre: 'Dayra Maritza Paz Calderón',
+      cargo: 'Evaluadora Instruccional',
+      centro: 'Centro de Diseño y Metrología',
+      regional: 'Distrito Capital',
+    },
+    {
+      nombre: 'Julia Isabel Roberto',
+      cargo: 'Diseñadora y Evaluadora Instruccional',
+      centro: 'Centro para la Industria de la Comunicación Gráfica',
+      regional: 'Distrito Capital',
+    },
+    {
       nombre: 'José Gabriel Ortiz Abella',
       cargo: 'Revisión metodológica y pedagógica',
       centro: 'Centro para la Industria de la Comunicación Gráfica',
       regional: 'Regional Distrito Capital',
     },
     {
-      nombre: 'Pendiente',
+      nombre: 'Martha Isabel Martínez Vargas',
       cargo: 'Corrección de estilo',
       centro: 'Centro para la Industria y la Comunicación Gráfica',
       regional: 'Regional Distrito Capital',
