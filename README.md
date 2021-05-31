@@ -1,15 +1,8 @@
-# **Solución error Titulo**
-1. Abrir el archivo index.html ubicado en la carpeta de public 
-2. Remplazar la linea 8 de nuestro codigo por el titulo correspondiente al programa 
-![imagen de muestra](src/assets/template/Solucion.jpg 'Title')
-
-![imagen de muestra 2](src/assets/template/solucion_2.jpg 'Title')
-
-# **sena-base-2021 v1.2.1**
+# **Construcción de bases de datos con MYSQL**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED-BASE-2021](https://ecored-sena.github.io/ECORED-BASE-2021)
+[https://ecored-sena.github.io/CONSTRUCCION_BD_MYSQL_INFO/](https://ecored-sena.github.io/CONSTRUCCION_BD_MYSQL_INFO/)
 
 #
 
